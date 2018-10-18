@@ -215,7 +215,7 @@ To redirect an entrypoint rewriting the URL.
 
 Care should be taken when defining replacement expand variables: `$1x` is equivalent to `${1x}`, not `${1}x` (see [Regexp.Expand](https://golang.org/pkg/regexp/#Regexp.Expand)), so use `${1}` syntax.
 
-Regular expressions and replacements can be tested using online tools such as [Go Playground](https://play.golang.org/p/mWU9p-wk2ru) or the [Regex101](https://regex101.com/r/58sIgx/2).
+Regular expressions and replacements can be tested using online tools such as [Go Playground](https://play.golang.org/p/mWU9p-wk2ru), [ExtendsClass](https://extendsclass.com/regex-tester.html#MTgxMDE4Mzk1Mw==) or the [Regex101](https://regex101.com/r/58sIgx/2).
 
 ## TLS
 
